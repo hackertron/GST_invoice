@@ -1,6 +1,6 @@
 #include "newinvoice.h"
 #include "ui_newinvoice.h"
-#include <QMessageBox>
+
 NewInvoice::NewInvoice(QWidget *parent) :
     QDialog(parent),
     ui(new Ui::NewInvoice)
