@@ -1,6 +1,6 @@
 # GST_invoice
 
-![mainwindow](1.png)
+![mainwindow](https://raw.githubusercontent.com/hackertron/GST_invoice/master/1.PNG)
 
 
-![Invoice](2.png)
+![Invoice](https://raw.githubusercontent.com/hackertron/GST_invoice/master/2.PNG)
